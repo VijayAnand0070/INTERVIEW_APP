@@ -1,0 +1,15 @@
+fastapi==0.115.6
+uvicorn[standard]==0.32.1
+python-multipart==0.0.19
+python-dotenv==1.0.1
+pymupdf==1.25.1
+python-docx==1.1.2
+spacy==3.8.3
+sentence-transformers==3.3.1
+scikit-learn==1.5.2
+numpy==1.26.4
+faster-whisper==1.1.0
+ollama==0.4.4
+pyttsx3==2.98
+transformers==4.41.2
+tokenizers==0.19.1

@@ -1,0 +1,8 @@
+# Use a Python 3.10 or 3.11 virtual environment for this optional XTTS provider.
+# Python 3.13 is not recommended for Coqui TTS at the time this app was built.
+# For RTX GPUs on Windows, install CUDA PyTorch first:
+# pip install --force-reinstall "torch==2.5.1+cu121" "torchaudio==2.5.1+cu121" --index-url https://download.pytorch.org/whl/cu121
+TTS==0.22.0
+transformers==4.41.2
+tokenizers==0.19.1
+networkx==2.8.8
